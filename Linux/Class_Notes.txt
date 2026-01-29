@@ -302,7 +302,7 @@ Day 4 : 14th July 2025
 					Install Actual Tool
 					Post Installation Actions				
 			
-						Eg.: Tomcat WAS :::: 
+						Eg.: Tomcat WAS (Web Application Server) :::: 
 						
 							Install Pre-requisites			===> jdk 
 							
